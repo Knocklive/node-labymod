@@ -1,6 +1,6 @@
 {
   "name": "node-labymod",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper for the LabyMod-API. Fetch Emotes, Stickers and more!",
   "main": "./src/index.js",
   "scripts": {
