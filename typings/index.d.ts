@@ -1,0 +1,10 @@
+export const getStatus: () => Promise<any>;
+export const getShop: (type?: string) => Promise<any>;
+export const getRoles: (uuid: string) => Promise<any>;
+export const getStickers: (uuid: string) => Promise<any>;
+export const getCosmetics: (uuid: string) => Promise<any>;
+export const getUser: (uuid: string) => Promise<any>;
+export const reportCape: (owner: string, reporter: string) => Promise<any>;
+export const getVersions: () => Promise<any>;
+export const getAddons: () => Promise<any>;
+export const getCapeData: (username: string) => Promise<any>;
