@@ -8,3 +8,5 @@ export function reportCape(owner: string, reporter: string): Promise<any>;
 export function getVersions(): Promise<any>;
 export function getAddons(): Promise<any>;
 export function getCapeData(username: string): Promise<any>;
+export function getEmotes(uuid: string): Promise<any>;
+export function getPublicServers(): Promise<any>;
