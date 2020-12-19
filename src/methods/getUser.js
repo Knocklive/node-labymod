@@ -16,9 +16,9 @@ module.exports = function getUser(uuid) {
         let stickers = json.st?.p || [];
 
         let user = {
-          roles: availableRoles.filter(ar => roles.includes(ar.role_id)),
-          cosmetics: availableCosmetics.filter(ac => cosmetics.includes(ac.item_id)),
-          emotes: availableEmotes.filter(ae => emotes.includes(ae.emote_id)),
+          roles: availableRoles.filter(ar => roles.includes(ar.id)),
+          cosmetics: availableCosmetics.filter(ac => cosmetics.includes(ac.id)),
+          emotes: availableEmotes.filter(ae => emotes.includes(ae.id)),
           stickers: availableStickers.filter(as => stickers.includes(as.id)),
         };
         resolve(user);

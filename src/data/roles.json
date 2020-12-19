@@ -1,46 +1,101 @@
 [
   {
-    "role_id": 1,
-    "role_name": "Administrator"
+    "id": 1,
+    "name": "administrator",
+    "nice_name": "Administrator",
+    "color_hex": "e84c3c",
+    "color_minecraft": "4",
+    "tag_name": "ADMIN",
+    "display_type": "ABOVE_HEAD"
   },
   {
-    "role_id": 2,
-    "role_name": "Developer"
+    "id": 2,
+    "name": "developer",
+    "nice_name": "Developer",
+    "color_hex": "e84c3c",
+    "color_minecraft": "b",
+    "tag_name": "DEV",
+    "display_type": "ABOVE_HEAD"
   },
   {
-    "role_id": 3,
-    "role_name": "Sr Moderator"
+    "id": 3,
+    "name": "seniormoderator",
+    "nice_name": "Sr Moderator",
+    "color_hex": "e84c3c",
+    "color_minecraft": "6",
+    "tag_name": "Sr Mod",
+    "display_type": "ABOVE_HEAD"
   },
   {
-    "role_id": 4,
-    "role_name": "Moderator"
+    "id": 4,
+    "name": "moderator",
+    "nice_name": "Moderator",
+    "color_hex": "e84c3c",
+    "color_minecraft": "e",
+    "tag_name": "MOD",
+    "display_type": "ABOVE_HEAD"
   },
   {
-    "role_id": 5,
-    "role_name": "Jr Moderator"
+    "id": 6,
+    "name": "content",
+    "nice_name": "Content",
+    "color_hex": "e84c3c",
+    "color_minecraft": "2",
+    "tag_name": "CONTENT",
+    "display_type": "ABOVE_HEAD"
   },
   {
-    "role_id": 6,
-    "role_name": "Content"
+    "id": 12,
+    "name": "juniordeveloper",
+    "nice_name": "Jr Developer",
+    "color_hex": "e84c3c",
+    "color_minecraft": "b",
+    "tag_name": null,
+    "display_type": "NONE"
   },
   {
-    "role_id": 7,
-    "role_name": "Translator"
+    "id": 5,
+    "name": "juniormoderator",
+    "nice_name": "Jr Moderator",
+    "color_hex": null,
+    "color_minecraft": "e",
+    "tag_name": null,
+    "display_type": "NONE"
   },
   {
-    "role_id": 8,
-    "role_name": "Partner"
+    "id": 7,
+    "name": "translator",
+    "nice_name": "Translator",
+    "color_hex": "50D35F",
+    "color_minecraft": "a",
+    "tag_name": null,
+    "display_type": "BESIDE_NAME"
   },
   {
-    "role_id": 9,
-    "role_name": "VIP"
+    "id": 8,
+    "name": "partner",
+    "nice_name": "Partner",
+    "color_hex": "BE00BE",
+    "color_minecraft": "5",
+    "tag_name": "PARTNER",
+    "display_type": "ABOVE_HEAD"
   },
   {
-    "role_id": 10,
-    "role_name": "LabyMod+"
+    "id": 9,
+    "name": "vip",
+    "nice_name": "VIP",
+    "color_hex": "BE00BE",
+    "color_minecraft": "5",
+    "tag_name": null,
+    "display_type": "BESIDE_NAME"
   },
   {
-    "role_id": 12,
-    "role_name": "Jr Developer"
+    "id": 10,
+    "name": "plus",
+    "nice_name": "LabyMod+",
+    "color_hex": "FFC700",
+    "color_minecraft": "e",
+    "tag_name": null,
+    "display_type": "BESIDE_NAME"
   }
 ]

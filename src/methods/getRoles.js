@@ -11,7 +11,7 @@ module.exports = function getRoles(uuid) {
       .then(res => res.json())
       .then(json => {
         let roles = json.g?.map(g => g.i) || [];
-        resolve(availableRoles.filter(ar => roles.includes(ar.role_id)));
+        resolve(availableRoles.filter(ar => roles.includes(ar.id)));
       })
       .catch(err => reject(err));
   });

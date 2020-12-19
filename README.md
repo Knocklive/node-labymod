@@ -38,8 +38,8 @@ To install the module run `npm install node-labymod`.
 
 - getAddons():
   - Returns: A list of available LabyMod addons and their details. 
-- getCapeData(uuid):
-  - Parameter: String (UUID in format of 36 characters)
+- getCapeData(username):
+  - Parameter: String (A minecraft username)
   - Returns: Information about a LabyMod users' cape
 - getCosmetics(uuid):
   - Parameter: String (UUID in format of 36 characters)
@@ -64,6 +64,8 @@ To install the module run `npm install node-labymod`.
   - Returns: A list of available LabyMod versions
 - reportCape(owner, reporter): 
   - Reports: A users' cape
+- getPublicServers():
+  - Reports: Returns a list of public servers
 
 ## Examples
 

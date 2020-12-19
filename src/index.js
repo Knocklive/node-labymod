@@ -11,4 +11,6 @@ module.exports = {
   getVersions: require('./methods/getVersions'),
   getAddons: require('./methods/getAddons'),
   getCapeData: require('./methods/getCapeData'),
+  getPublicServers: require('./methods/getPublicServers'),
+  getEmotes: require('./methods/getEmotes'),
 };

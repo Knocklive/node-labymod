@@ -11,7 +11,7 @@ module.exports = function getCosmetics(uuid) {
       .then(res => res.json())
       .then(json => {
         let cosmetics = json.c?.map(c => c.i) || [];
-        resolve(availableCosmetics.filter(ac => cosmetics.includes(ac.item_id)));
+        resolve(availableCosmetics.filter(ac => cosmetics.includes(ac.id)));
       })
       .catch(err => reject(err));
   });

@@ -1,150 +1,150 @@
 [
   {
-    "item_id": 0,
-    "item_name": "Cloak"
+    "id": 0,
+    "name": "Cloak"
   },
   {
-    "item_id": 1,
-    "item_name": "Wolf Tail"
+    "id": 1,
+    "name": "Wolf Tail"
   },
   {
-    "item_id": 2,
-    "item_name": "LabyWings"
+    "id": 2,
+    "name": "LabyWings"
   },
   {
-    "item_id": 3,
-    "item_name": "Cat Tail"
+    "id": 3,
+    "name": "Cat Tail"
   },
   {
-    "item_id": 4,
-    "item_name": "Moehritz"
+    "id": 4,
+    "name": "Moehritz"
   },
   {
-    "item_id": 5,
-    "item_name": "Beard"
+    "id": 5,
+    "name": "Beard"
   },
   {
-    "item_id": 6,
-    "item_name": "Rednose"
+    "id": 6,
+    "name": "Rednose"
   },
   {
-    "item_id": 7,
-    "item_name": "Hat"
+    "id": 7,
+    "name": "Hat"
   },
   {
-    "item_id": 8,
-    "item_name": "Tool"
+    "id": 8,
+    "name": "Tool"
   },
   {
-    "item_id": 9,
-    "item_name": "Halo"
+    "id": 9,
+    "name": "Halo"
   },
   {
-    "item_id": 10,
-    "item_name": "Antlers"
+    "id": 10,
+    "name": "Antlers"
   },
   {
-    "item_id": 11,
-    "item_name": "Rabbit"
+    "id": 11,
+    "name": "Rabbit"
   },
   {
-    "item_id": 12,
-    "item_name": "Devil Horns"
+    "id": 12,
+    "name": "Devil Horns"
   },
   {
-    "item_id": 13,
-    "item_name": "Crystal Wings"
+    "id": 13,
+    "name": "Crystal Wings"
   },
   {
-    "item_id": 14,
-    "item_name": "Steampunk Wings"
+    "id": 14,
+    "name": "Steampunk Wings"
   },
   {
-    "item_id": 15,
-    "item_name": "Halloween"
+    "id": 15,
+    "name": "Halloween"
   },
   {
-    "item_id": 16,
-    "item_name": "Xmas Hat"
+    "id": 16,
+    "name": "Xmas Hat"
   },
   {
-    "item_id": 17,
-    "item_name": "Stegi Hat"
+    "id": 17,
+    "name": "Stegi Hat"
   },
   {
-    "item_id": 18,
-    "item_name": "Merch Crown"
+    "id": 18,
+    "name": "Merch Crown"
   },
   {
-    "item_id": 19,
-    "item_name": "Cap"
+    "id": 19,
+    "name": "Cap"
   },
   {
-    "item_id": 20,
-    "item_name": "Backpack"
+    "id": 20,
+    "name": "Backpack"
   },
   {
-    "item_id": 21,
-    "item_name": "Cat ears"
+    "id": 21,
+    "name": "Cat ears"
   },
   {
-    "item_id": 22,
-    "item_name": "Bandana"
+    "id": 22,
+    "name": "Bandana"
   },
   {
-    "item_id": 23,
-    "item_name": "Headset"
+    "id": 23,
+    "name": "Headset"
   },
   {
-    "item_id": 24,
-    "item_name": "Angel Wings"
+    "id": 24,
+    "name": "Angel Wings"
   },
   {
-    "item_id": 25,
-    "item_name": "Flower"
+    "id": 25,
+    "name": "Flower"
   },
   {
-    "item_id": 26,
-    "item_name": "Dog"
+    "id": 26,
+    "name": "Dog"
   },
   {
-    "item_id": 27,
-    "item_name": "Shoes"
+    "id": 27,
+    "name": "Shoes"
   },
   {
-    "item_id": 28,
-    "item_name": "Royal Crown"
+    "id": 28,
+    "name": "Royal Crown"
   },
   {
-    "item_id": 29,
-    "item_name": "GrieferGames Belt"
+    "id": 29,
+    "name": "GrieferGames Belt"
   },
   {
-    "item_id": 30,
-    "item_name": "Reved Fire Hand"
+    "id": 30,
+    "name": "Reved Fire Hand"
   },
   {
-    "item_id": 31,
-    "item_name": "Cover Mask"
+    "id": 31,
+    "name": "Cover Mask"
   },
   {
-    "item_id": 32,
-    "item_name": "Snoxh Eyes"
+    "id": 32,
+    "name": "Snoxh Eyes"
   },
   {
-    "item_id": 33,
-    "item_name": "Watch"
+    "id": 33,
+    "name": "Watch"
   },
   {
-    "item_id": 34,
-    "item_name": "Kawaii Mask"
+    "id": 34,
+    "name": "Kawaii Mask"
   },
   {
-    "item_id": 35,
-    "item_name": "Butterfly Wings"
+    "id": 35,
+    "name": "Butterfly Wings"
   },
   {
-    "item_id": 36,
-    "item_name": "Eyelids"
+    "id": 36,
+    "name": "Eyelids"
   }
 ]

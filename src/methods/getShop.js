@@ -14,8 +14,8 @@ module.exports = function getShop(type = 'all') {
         if (!['raw', 'all', 'rare'].includes(type)) type = 'all';
 
         if (type === 'raw') return resolve(dailyEmotes);
-        if (type === 'all') return resolve(availableEmotes.filter(ae => dailyEmotes.includes(ae.emote_id)));
-        if (type === 'rare') return resolve(availableEmotes.filter(ae => dailyEmotes.includes(ae.emote_id) && ae.rare));
+        if (type === 'all') return resolve(availableEmotes.filter(ae => dailyEmotes.includes(ae.id)));
+        if (type === 'rare') return resolve(availableEmotes.filter(ae => dailyEmotes.includes(ae.id) && ae.rare));
       })
       .catch(err => reject(err));
   });

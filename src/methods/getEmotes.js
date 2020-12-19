@@ -11,7 +11,7 @@ module.exports = function getEmotes(uuid) {
       .then(res => res.json())
       .then(json => {
         let emotes = json.e || [];
-        resolve(availableEmotes.filter(ae => emotes.includes(ae.emote_id)));
+        resolve(availableEmotes.filter(ae => emotes.includes(ae.id)));
       })
       .catch(err => reject(err));
   });
