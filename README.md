@@ -3,7 +3,7 @@
     node-labymod
   </h1>
   <p>
-    <a href="https://discord.gg/28wAWvmS7a"><img src="https://img.shields.io/discord/768055408542744587?color=7289da&logo=discord&logoColor=white?maxAge=3600" alt="Discord server" /></a>
+    <a href="https://discord.com/invite/uZ6q4jw"><img src="https://img.shields.io/discord/768055408542744587?color=7289da&logo=discord&logoColor=white?maxAge=3600" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/node-labymod"><img src="https://img.shields.io/npm/v/node-labymod.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.paypal.com/paypalme/janicblmn"><img src="https://img.shields.io/badge/donate-PayPal-F96854.svg" alt="PayPal" /></a>
   </p>
