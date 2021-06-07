@@ -1,5 +1,7 @@
 {
-  "extends": ["dtslint/dtslint.json"],
+  "extends": [
+    "dtslint/dtslint.json"
+  ],
   "rules": {
     "prefer-readonly": false,
     "await-promise": false,
@@ -21,8 +23,10 @@
     "no-single-declare-module": false,
     "member-access": true,
     "no-unnecessary-class": false,
-    "array-type": [true, "array"],
-
+    "array-type": [
+      true,
+      "array"
+    ],
     "no-any-union": false,
     "void-return": false
   }
