@@ -1,6 +1,6 @@
 {
   "name": "node-labymod",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "description": "A wrapper for the LabyMod-API. Fetch Emotes, Stickers and more!",
   "main": "./src/index.js",
   "scripts": {
@@ -22,7 +22,8 @@
   "author": "MasterJanic",
   "license": "ISC",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=14.0.0",
+    "npm": ">=7.0.0"
   },
   "prettier": {
     "singleQuote": true,
@@ -32,16 +33,16 @@
     "arrowParens": "avoid"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.10.0",
-    "@typescript-eslint/parser": "^4.10.0",
-    "dtslint": "^4.0.6",
-    "eslint": "^7.15.0",
-    "eslint-config-prettier": "^7.0.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-prettier": "^3.3.0",
-    "prettier": "^2.2.1",
+    "@typescript-eslint/eslint-plugin": "^4.26.0",
+    "@typescript-eslint/parser": "^4.26.0",
+    "dtslint": "^4.1.0",
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.1",
     "tslint": "^6.1.3",
-    "typescript": "^4.1.3"
+    "typescript": "^4.3.2"
   },
   "dependencies": {
     "node-fetch": "^2.6.1"
