@@ -73,9 +73,11 @@ To install the module run `npm install node-labymod`.
 const LabyMod = require('node-labymod');
 
 // Using Promises
-LabyMod.getStatus().then(status => console.log(status)); // Prints "OK" if everything is fine
-LabyMod.getUser('70d39c44-adbd-442f-a0a3-f29fcb895699').then(user => console.log(user));
-LabyMod.reportCape('DomeMilch', 'TiimDE').then(() => console.log('Success!')).catch(err => console.error(err));
+LabyMod.getStatus().then(console.log); // Prints "OK" if everything is fine
+LabyMod.getUser('70d39c44-adbd-442f-a0a3-f29fcb895699').then(console.log);
+LabyMod.reportCape('DomeMilch', 'TiimDE')
+        .then(() => console.log('Success!'))
+        .catch(console.error);
 
 // Or using ASYNC/AWAIT syntax
 (async () => {
