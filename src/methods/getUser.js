@@ -3,6 +3,11 @@
 const fetch = require('node-fetch');
 const { availableRoles, availableEmotes, availableCosmetics, availableStickers } = require('../data/Data');
 
+/**
+ * Gets the list of owned emotes, cosmetics, roles and stickers by a user.
+ * @param {string} uuid - The uuid of the user to search for.
+ * @returns {Promise<unknown>}
+ */
 module.exports = function getUser(uuid) {
   return new Promise((resolve, reject) => {
     if (uuid.length < 36 || uuid.length > 36) return reject(new Error('Only a 36-character UUID can be specified.'));

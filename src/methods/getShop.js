@@ -3,6 +3,11 @@
 const fetch = require('node-fetch');
 const { availableEmotes } = require('../data/Data');
 
+/**
+ * Fetches the daily emotes of the LabyMod shop.
+ * @param {('all', 'rare', 'raw')} type - Defines the output type.
+ * @returns {Promise<unknown>}
+ */
 module.exports = function getShop(type = 'all') {
   return new Promise((resolve, reject) => {
     fetch('https://dl.labymod.net/advertisement/entries.json')

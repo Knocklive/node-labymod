@@ -2,6 +2,12 @@
 
 const fetch = require('node-fetch');
 
+/**
+ * Reports a players cape directly to LabyMod support.
+ * @param {string} owner - The players ingame name to be reported.
+ * @param {string} reporter - The ingame name of the reporter.
+ * @returns {Promise<unknown>}
+ */
 module.exports = function reportCape(owner, reporter) {
   return new Promise((resolve, reject) => {
     fetch('https://api.labymod.net/capes/capeReport.php', {
