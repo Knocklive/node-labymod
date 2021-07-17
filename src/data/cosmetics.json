@@ -146,5 +146,157 @@
   {
     "id": 36,
     "name": "Eyelids"
+  },
+  {
+    "id": 45,
+    "name": "Parrot"
+  },
+  {
+    "id": 46,
+    "name": "Minime"
+  },
+  {
+    "id": 47,
+    "name": "Goggles"
+  },
+  {
+    "id": 48,
+    "name": "Poop"
+  },
+  {
+    "id": 49,
+    "name": "Bee"
+  },
+  {
+    "id": 50,
+    "name": "Glasses"
+  },
+  {
+    "id": 51,
+    "name": "Heartglasses"
+  },
+  {
+    "id": 52,
+    "name": "Owl"
+  },
+  {
+    "id": 53,
+    "name": "Baloon_Test"
+  },
+  {
+    "id": 54,
+    "name": "Devil Wings"
+  },
+  {
+    "id": 55,
+    "name": "Labytest"
+  },
+  {
+    "id": 56,
+    "name": "Unicorn"
+  },
+  {
+    "id": 57,
+    "name": "Flowerdiadem"
+  },
+  {
+    "id": 58,
+    "name": "Unicornhorn"
+  },
+  {
+    "id": 59,
+    "name": "Fanny Pack"
+  },
+  {
+    "id": 60,
+    "name": "Mechanic Wings"
+  },
+  {
+    "id": 61,
+    "name": "Toucan"
+  },
+  {
+    "id": 62,
+    "name": "Panda"
+  },
+  {
+    "id": 63,
+    "name": "Monkey"
+  },
+  {
+    "id": 64,
+    "name": "Fisher Hat"
+  },
+  {
+    "id": 65,
+    "name": "Pinguin"
+  },
+  {
+    "id": 66,
+    "name": "Sunglasses"
+  },
+  {
+    "id": 67,
+    "name": "Chiwawa"
+  },
+  {
+    "id": 68,
+    "name": "Racoon"
+  },
+  {
+    "id": 69,
+    "name": "Koala"
+  },
+  {
+    "id": 70,
+    "name": "Rabbit"
+  },
+  {
+    "id": 71,
+    "name": "Hipsterglasses"
+  },
+  {
+    "id": 72,
+    "name": "Flower Crown"
+  },
+  {
+    "id": 73,
+    "name": "Tiara"
+  },
+  {
+    "id": 74,
+    "name": "Testcosmetic"
+  },
+  {
+    "id": 75,
+    "name": "Partyhat"
+  },
+  {
+    "id": 76,
+    "name": "Fire Wings"
+  },
+  {
+    "id": 77,
+    "name": "TEST"
+  },
+  {
+    "id": 78,
+    "name": "Gem"
+  },
+  {
+    "id": 79,
+    "name": "Slime"
+  },
+  {
+    "id": 80,
+    "name": "Gun"
+  },
+  {
+    "id": 81,
+    "name": "Blocky"
+  },
+  {
+    "id": 92,
+    "name": "Flag"
   }
 ]
