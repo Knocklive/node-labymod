@@ -5,8 +5,8 @@ const { availableEmotes } = require('../data/Data');
 
 /**
  * Fetches the daily emotes of the LabyMod shop.
- * @param {('all', 'rare', 'raw')} type - Defines the output type.
- * @returns {Promise<unknown>}
+ * @param {?('all'|'rare'|'raw')} type - Defines the output type.
+ * @returns {Promise<any>}
  */
 module.exports = function getShop(type = 'all') {
   return new Promise((resolve, reject) => {
