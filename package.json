@@ -25,13 +25,6 @@
     "node": ">=14.0.0",
     "npm": ">=7.0.0"
   },
-  "prettier": {
-    "singleQuote": true,
-    "printWidth": 120,
-    "trailingComma": "all",
-    "endOfLine": "lf",
-    "arrowParens": "avoid"
-  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.29.2",

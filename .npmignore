@@ -4,3 +4,4 @@ TODO.md
 tslint.json
 tsconfig.json
 .eslintrc.json
+.prettierrc.json
