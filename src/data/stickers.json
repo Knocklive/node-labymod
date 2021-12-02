@@ -1207,7 +1207,7 @@
   },
   {
     "id": 23,
-    "name": "Skunked Sticker Pack",
+    "name": "Skunked-Pack",
     "stickers": [
       {
         "id": 119,
@@ -1307,6 +1307,149 @@
           "omarmu",
           "ally",
           "dog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Logisch-Pack",
+    "stickers": [
+      {
+        "id": 129,
+        "name": "Logisch Water",
+        "tags": [
+          "water",
+          "bucket",
+          "wasser",
+          "eimer",
+          "logisch"
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Logisch Rage",
+        "tags": [
+          "logisch",
+          "rage"
+        ]
+      },
+      {
+        "id": 131,
+        "name": "Logisch Hey",
+        "tags": [
+          "logisch",
+          "hey"
+        ]
+      },
+      {
+        "id": 132,
+        "name": "Logisch Love",
+        "tags": [
+          "logisch",
+          "love"
+        ]
+      },
+      {
+        "id": 133,
+        "name": "Logisch Esel",
+        "tags": [
+          "logisch",
+          "esel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Rubi-Pack",
+    "stickers": [
+      {
+        "id": 134,
+        "name": "Rubi Curioso",
+        "tags": [
+          "rubi",
+          "curioso",
+          "rubibykiller"
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Rubi Feliz",
+        "tags": [
+          "rubi",
+          "feliz"
+        ]
+      },
+      {
+        "id": 136,
+        "name": "Rubi Malardo",
+        "tags": [
+          "rubi",
+          "malardo"
+        ]
+      },
+      {
+        "id": 137,
+        "name": "Rubi Que",
+        "tags": [
+          "rubi",
+          "que"
+        ]
+      },
+      {
+        "id": 138,
+        "name": "Rubi Suspiro",
+        "tags": [
+          "rubi",
+          "suspiro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "iNub-Pack",
+    "stickers": [
+      {
+        "id": 139,
+        "name": "iNub CFWG",
+        "tags": [
+          "inub",
+          "cfwg"
+        ]
+      },
+      {
+        "id": 140,
+        "name": "iNub Heart",
+        "tags": [
+          "inub",
+          "heart"
+        ]
+      },
+      {
+        "id": 141,
+        "name": "iNub Ojos",
+        "tags": [
+          "inub",
+          "ojos"
+        ]
+      },
+      {
+        "id": 142,
+        "name": "iNub MonkieS",
+        "tags": [
+          "inub",
+          "monkey",
+          "monkie"
+        ]
+      },
+      {
+        "id": 143,
+        "name": "iNub Weary",
+        "tags": [
+          "inub",
+          "weary"
         ]
       }
     ]

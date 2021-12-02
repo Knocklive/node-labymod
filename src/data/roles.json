@@ -23,7 +23,7 @@
     "nice_name": "Sr Moderator",
     "color_hex": "e84c3c",
     "color_minecraft": "6",
-    "tag_name": "Sr Mod",
+    "tag_name": "SR MOD",
     "display_type": "ABOVE_HEAD"
   },
   {
@@ -31,7 +31,7 @@
     "name": "moderator",
     "nice_name": "Moderator",
     "color_hex": "e84c3c",
-    "color_minecraft": "e",
+    "color_minecraft": "6",
     "tag_name": "MOD",
     "display_type": "ABOVE_HEAD"
   },
@@ -58,7 +58,16 @@
     "name": "juniormoderator",
     "nice_name": "Jr Moderator",
     "color_hex": null,
-    "color_minecraft": "e",
+    "color_minecraft": "6",
+    "tag_name": null,
+    "display_type": "NONE"
+  },
+  {
+    "id": 11,
+    "name": "cosmeticcreator",
+    "nice_name": "Cosmetic Creator",
+    "color_hex": null,
+    "color_minecraft": "f",
     "tag_name": null,
     "display_type": "NONE"
   },
