@@ -309,7 +309,7 @@
   },
   {
     "id": 92,
-    "name": "Flag"
+    "name": "Flag *(Limited)*"
   },
   {
     "id": 93,
@@ -317,7 +317,7 @@
   },
   {
     "id": 94,
-    "name": "Swimming ring"
+    "name": "Swimming ring *(Limited)*"
   },
   {
     "id": 95,
@@ -325,11 +325,11 @@
   },
   {
     "id": 96,
-    "name": "Crab"
+    "name": "Crab *(Limited)*"
   },
   {
     "id": 97,
-    "name": "Glasses"
+    "name": "Glasses *(Limited)*"
   },
   {
     "id": 105,
@@ -349,15 +349,15 @@
   },
   {
     "id": 113,
-    "name": "Sombrero"
+    "name": "Sombrero *(Limited)*"
   },
   {
     "id": 114,
-    "name": "Mustache"
+    "name": "Mustache *(Limited)*"
   },
   {
     "id": 116,
-    "name": "Merch Crown"
+    "name": "Merch Crown *(Limited)*"
   },
   {
     "id": 155,
@@ -382,6 +382,10 @@
   {
     "id": 176,
     "name": "LabyBag"
+  },
+  {
+    "id": 184,
+    "name": "Hair Bow"
   },
   {
     "id": 195,
@@ -539,16 +543,36 @@
     "name": "Party Horn",
     "id": 603
   },
-  {
-    "name": "Laser Swords",
-    "id": 604
+  {    
+    "id": 604,
+    "name": "Laser Swords"
   },
   {
-    "name": "Balloon",
-    "id": 605
+    "id": 605,
+    "name": "Balloon"
   },
   {
-    "name": "Rockets",
-    "id": 606
+    "id": 606,
+    "name": "Rockets"
+  },
+  {
+    "id": 612,
+    "name": "Cupids Quiver"
+  },
+  {
+    "id": 632,
+    "name": "Teddy"
+  },
+  {
+    "id": 644,
+    "name": "Heart Balloon"
+  },
+  {
+    "id": 647,
+    "name": "Heart Aura"
+  },
+  {
+    "id": 655,
+    "name": "Heart Glasses"
   }
 ]
